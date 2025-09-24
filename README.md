@@ -25,7 +25,7 @@ In the following, we describe the process of i) creating such a forked repositor
 
 Press the "Fork" button on the top of this page to copy this repository to your account.
 
-> <img src="/clarifying_pictures/fork_image.png"  width="500">
+<img src="/clarifying_pictures/fork_image.png"  width="500">
 ---
 
 Then, on the next page that pops up, choose your account:
