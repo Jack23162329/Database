@@ -24,31 +24,29 @@ In the following, we describe the process of i) creating such a forked repositor
 ### 1. Fork this repository
 
 Press the "Fork" button on the top of this page to copy this repository to your account.
----
+
 
 Then, on the next page that pops up, choose your account:
----
 
 After successfully forking the repository, you will see a message such as the following:
----
 
 ### 2. Make your fork *private*
 
 Your forked repository **must be made private** so that others do not have access to it.
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'General' to change the permissions for your project.
----
+
 
 Expand 'Permissions', set 'Project visibility' to 'Private', and then save changes. Notice, changing the project visibility to 'Internal' is **not enough**.
----
+
 
 ### 3. **Provide *Maintainer* access to your fork for your lab partner and for your lab assistant**
 
 Find the "Settings" button on the left of the page about your forked repository, and click 'Members' to grant *Maintainer* access to your partner and lab assistant.
----
+
 
 Follow the steps as shown in the screenshot below to provide **Maintainer** access to your lab partner and your lab assistant
----
+
 
 ### 4. Work on the lab assignments
 
@@ -56,17 +54,16 @@ You may want to download the content of your repository to the computer at which
 
 After you have the content of your repository on your computer, you can start working on the lab assignments. Notice that the repository contains four folders, one for each of the four lab assignments. **Check these folders for more detailed instructions about what needs to be handed in for the corresponding lab assignment.**
 
----
 
 ### 5. Publish your work in the forked repository
 
 After completing an assignment, edit/upload the files to your GitLab repository so that your lab assistant can check your work online.
 
 If there exists an example report in the directory (e.g., lab2.sql in the directory lab2) – open and edit the file in the browser as illustrated in the following screenshot (of course, you may also use git to push updates to this file from your computer).
----
+
 
 If there is no such file in the directory (e.g., lab4), you may upload files from your computer into the directory as the following screenshot illustrates (or, again, you may use git).
----
+
 
 ### 6. Submit/Re-submit by sending an email with a link to your repository
 To submit/resubmit an assignment, **email the address of your repository** to your lab assistant. The subject of the email letter *must* adhere to the following pattern: 
@@ -75,6 +72,6 @@ To submit/resubmit an assignment, **email the address of your repository** to yo
 
 **Assignments do not need to be demonstrated during lab sessions**.
 
----
+
 **Assignments that are handed in incorrectly will be rejected and your assistant will ask you to correct the assignment.** 
 
